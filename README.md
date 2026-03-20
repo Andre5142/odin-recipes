@@ -4,11 +4,11 @@ About:
 This repository contains my first project within 'The Odin Project' course.
 The website should contain my favorite dishes and their respective recipes.
 
-
 Structure:
 repo/odin-recipes
    -README.md
    -index.html
+   -styles.css
     recipes
       -ny-pizza.html
       -chocolate-cake.html
@@ -18,4 +18,6 @@ repo/odin-recipes
       -burger.jpg
 
 Goal:
-Homepage and three recipe-sites including pictures and links for navigation.
+Homepage and three recipe-sites including pictures and links for navigation. 
+
+Practicing HTML and CSS basics skills and understanding.
